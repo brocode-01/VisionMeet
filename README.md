@@ -48,8 +48,4 @@ This project is a full-stack video conferencing application built using the MERN
 - Security considerations are crucial for video conferencing applications. Implement proper authentication, authorization, and encryption mechanisms to protect user data and communication.
 - This is a basic foundation for a video conferencing application. You can extend its functionality with features like recording, meeting scheduling, integration with third-party tools, and more.
 
-## Disclaimer
 
-This project is intended for educational purposes only and may not be production-ready. Further development and security considerations are necessary for real-world deployment.
-
-![photo_2021-11-19_16-41-55](https://user-images.githubusercontent.com/80563363/142613884-ebed6808-7cca-483f-8614-98bb22b5af79.jpg)
